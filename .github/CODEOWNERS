@@ -1,3 +1,5 @@
 .theme-check.yml @crea8ivedev
 eslint.config.mjs @crea8ivedev
 /.github/CODEOWNERS @crea8ivedev
+/.husky/pre-commit @crea8ivedev
+package.json @crea8ivedev
