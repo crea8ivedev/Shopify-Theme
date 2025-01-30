@@ -92,3 +92,9 @@ ValidHTMLTranslation:
 ValidStaticBlockType:
   enabled: true
   severity: error
+ValidBlockTarget:
+  enabled: true
+  severity: error
+JSONMissingBlock:
+  enabled: true
+  severity: error
