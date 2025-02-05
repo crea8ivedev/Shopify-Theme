@@ -13,12 +13,8 @@
   "sections": {
     "header": {
       "type": "header",
-      "settings": {
-       
-      }
+      "settings": {}
     }
   },
-  "order": [
-    "header",
-  ]
+  "order": ["header"]
 }
